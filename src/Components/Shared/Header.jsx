@@ -22,7 +22,7 @@ const Header = () => {
         <NavLink to="/">
           <img
             className="border border-amber-300 h-10"
-            src="/public/assetes/main_logo.png"
+            src="/assetes/main_logo.png"
             alt="Logo"
           />
         </NavLink>
