@@ -1,10 +1,13 @@
 import React from 'react';
 import Header from '../../Components/Shared/Header';
+import Hero from './HomeComponets/Hero';
+import CatCard from '../CatCard/CatCard';
 
 const Home = () => {
     return (
         <div>
-           <Header></Header>
+           <Hero></Hero>
+           <CatCard></CatCard>
         </div>
     );
 };
