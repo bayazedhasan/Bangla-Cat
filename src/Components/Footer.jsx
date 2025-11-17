@@ -58,7 +58,7 @@ const Footer = () => {
                     </div>
 
                     {/* Right side form */}
-                    <div className="bg-[#3F3F3F] p-6 lg:p-15 h-auto lg:h-145 w-full lg:w-auto rounded-lg lg:rounded-none">
+                    <div className="bg-[#3F3F3F] p-6 lg:p-15 h-auto lg:h-155 w-full lg:w-auto rounded-lg lg:rounded-none">
                         <h1 className="text-white text-2xl lg:text-3xl font-extrabold pb-4 text-center lg:text-start">
                             Enquire Now!
                         </h1>
