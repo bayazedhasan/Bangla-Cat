@@ -17,7 +17,7 @@ const Header = () => {
 
   return (
     <header className="bg-black text-white sticky top-0 z-50">
-      <div className="container mx-auto lg:px-25 px-6 flex justify-between items-center p-4">
+      <div className="container mx-auto lg:px-25 px-6 flex justify-between items-center p-6">
         {/* Logo */}
         <NavLink to="/">
           <img
