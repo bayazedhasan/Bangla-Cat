@@ -1,10 +1,10 @@
 import React from 'react';
-import CatCard from '../CatCard/CatCard';
+import PartsComponents from './PartsComponents/PartsComponents';
 
 const Parts = () => {
     return (
         <div>
-            <CatCard></CatCard>
+            <PartsComponents></PartsComponents>
         </div>
     );
 };
